@@ -1,0 +1,1 @@
+A vanilla  clock with s (script  pointed as an internal element)
